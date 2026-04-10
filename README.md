@@ -1,4 +1,4 @@
-# Ender 3 Pro — Full Rebuild & Klipper Upgrade
+# Ender 3 Pro - Full Rebuild & Klipper Upgrade
 
 ![Klipper](https://img.shields.io/badge/Firmware-Klipper-orange?style=flat-square&logo=klipper)
 ![Mainsail](https://img.shields.io/badge/UI-Mainsail-blue?style=flat-square)
@@ -19,16 +19,16 @@ A long-term project to push an Ender 3 Pro beyond stock performance through iter
 ## ⚙️ Hardware Upgrades
 
 ### 🖥️ Mainboard
-- **BTT SKR Mini E3 V3** — replaced the stock Creality board for silent TMC2209 stepper drivers, better thermal management, and native Klipper compatibility
+- **BTT SKR Mini E3 V3** - replaced the stock Creality board for silent TMC2209 stepper drivers, better thermal management, and native Klipper compatibility
 
 ### 📍 Auto Bed Leveling
-- **BLTouch** — installed for automatic mesh bed leveling; eliminates manual tramming and compensates for bed warping across the entire surface
+- **BLTouch** - installed for automatic mesh bed leveling; eliminates manual tramming and compensates for bed warping across the entire surface
 
 ### 🔩 Mechanical
-- **Upgraded bed springs** — replaced stock springs with stronger yellow springs for more consistent bed tension and reduced drift during printing
+- **Upgraded bed springs** - replaced stock springs with stronger yellow springs for more consistent bed tension and reduced drift during printing
 
 ### 🍓 Single-Board Computer
-- **Raspberry Pi** — runs Klipper firmware + Moonraker API + Mainsail web interface for remote monitoring and control
+- **Raspberry Pi** - runs Klipper firmware + Moonraker API + Mainsail web interface for remote monitoring and control
 
 ---
 
@@ -70,10 +70,10 @@ A long-term project to push an Ender 3 Pro beyond stock performance through iter
 
 ## 📁 What's in This Repo
 
-- `printer.cfg` — full Klipper configuration with all tuned parameters
-- `mainsail.cfg` — Mainsail macros (PAUSE, RESUME, CANCEL_PRINT)
-- `cura-profiles/` — material profiles for PLA, PETG
-- `mods/` — notes on hardware modifications and installation steps
+- `printer.cfg` - full Klipper configuration with all tuned parameters
+- `mainsail.cfg` - Mainsail macros (PAUSE, RESUME, CANCEL_PRINT)
+- `cura-profiles/` - material profiles for PLA, PETG
+- `mods/` - notes on hardware modifications and installation steps
 
 ---
 
@@ -90,4 +90,4 @@ A long-term project to push an Ender 3 Pro beyond stock performance through iter
 
 ## 📅 Timeline
 
-**March 2021 – August 2023** | Independent Project
+**March 2021 - August 2023** | Independent Project
