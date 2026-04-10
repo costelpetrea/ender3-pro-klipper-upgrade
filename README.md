@@ -18,7 +18,6 @@ Notes on hardware mods and what worked / what didn't
 
 Hardware Upgrades
 
-[list what you added — e.g. BLTouch, direct drive, new extruder, etc.]
 
 What I Learned
 
