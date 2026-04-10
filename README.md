@@ -73,7 +73,6 @@ A long-term project to push an Ender 3 Pro beyond stock performance through iter
 - `printer.cfg` - full Klipper configuration with all tuned parameters
 - `mainsail.cfg` - Mainsail macros (PAUSE, RESUME, CANCEL_PRINT)
 - `cura-profiles/` - material profiles for PLA, PETG
-- `mods/` - notes on hardware modifications and installation steps
 
 ---
 
