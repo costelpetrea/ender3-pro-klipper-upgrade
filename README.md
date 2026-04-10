@@ -1,6 +1,11 @@
 Ender 3 Pro — Full Rebuild & Klipper Upgrade
 A long-term project to push an Ender 3 Pro beyond stock performance through iterative hardware upgrades and firmware customization. The printer was completely disassembled, upgraded with modern components, and migrated from stock Marlin to Klipper running on a Raspberry Pi.
 
+
+![Klipper](https://img.shields.io/badge/Firmware-Klipper-orange)
+![BTT SKR](https://img.shields.io/badge/Board-BTT_SKR_Mini_E3-blue)
+![Raspberry Pi](https://img.shields.io/badge/SBC-Raspberry_Pi-red)
+
 Hardware Upgrades
 
 Mainboard
