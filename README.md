@@ -36,7 +36,7 @@ A long-term project to push an Ender 3 Pro beyond stock performance through iter
 
 | Component | Role |
 |-----------|------|
-| **Klipper** | Firmware — runs split between Raspberry Pi (host) and SKR board (MCU) |
+| **Klipper** | Firmware - runs split between Raspberry Pi (host) and SKR board (MCU) |
 | **Moonraker** | API layer connecting Klipper to the web interface |
 | **Mainsail** | Browser-based UI for print management, monitoring, and config |
 | **Cura** | Slicer with custom profiles tuned for this printer's capabilities |
